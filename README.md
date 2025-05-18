@@ -3,7 +3,7 @@
 - I’m currently learning HTML, CSS and JavaScript. 
 - I’m looking to collaborate on exciting projects.
 
-ALl of my following codes are Java back-end projects (for now). 
+All of my following codes are Java back-end projects (for now). 
 
 
 <!---
