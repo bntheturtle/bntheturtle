@@ -1,6 +1,6 @@
 -  Hi, I’m Bénédicte !
 - I’m really interested in coding solutions for real life issues. 
-- I’m currently learning JavaScript and PHP. 
+- I’m currently learning JavaScript, PHP and MySQL. 
 - I’m looking to collaborate on exciting projects.
 
 All of my following published codes are Java back-end projects. 
