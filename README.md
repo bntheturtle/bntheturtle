@@ -3,7 +3,6 @@
 - I’m currently learning JavaScript, PHP and MySQL while perfectioning my other programming languages. 
 - I’m looking to collaborate on exciting projects.
 
-All of my following published codes are Java back-end projects. 
 
 
 <!---
