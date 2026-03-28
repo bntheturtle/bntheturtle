@@ -1,7 +1,7 @@
--  Hi, I’m Bénédicte !
+
 - I’m really interested in coding solutions for real life issues. 
 - I’m currently learning JavaScript, PHP and MySQL while perfectioning my other programming languages. 
-- I’m looking to collaborate on exciting projects.
+- I’m looking to collaborate with a driven team on exciting projects ! 
 
 
 
